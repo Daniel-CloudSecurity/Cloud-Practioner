@@ -23,3 +23,8 @@ Your task in this lab is to create
 
 Guides:
 https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html
+
+
+I created 5 different groups along with 5 different users for the groups
+I enforced the IAMUserChangePassword policy
+I performed clean up operations afterwards
