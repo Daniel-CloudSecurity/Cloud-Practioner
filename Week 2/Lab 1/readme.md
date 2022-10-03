@@ -11,3 +11,8 @@
 Guide: 
 https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/billing-what-is.html
 https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/billing-getting-started.html
+
+
+I attached the required IAM policy to the FinanceManager IAM identity I created
+I then signed into the FinanceManager IAM user account I created and using the billing dashboard, I reviewed my bills and usage
+Finally, I printed my bill
