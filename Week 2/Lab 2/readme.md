@@ -10,3 +10,5 @@ NB: Include Budget alarm at your preferred threshold.
 
 Guide:
 https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-create.html
+
+I created a cost budget and a usage budget.
